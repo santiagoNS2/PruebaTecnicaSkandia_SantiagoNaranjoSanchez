@@ -55,6 +55,9 @@ Esto creará la base de datos `ACMEDB` con todas las tablas definidas en el mode
 4. Clic derecho en **Database Diagrams** > **New Database Diagram**
 5. Agrega las tablas que quieras visualizar
 
+   ![image](https://github.com/user-attachments/assets/52cc8988-823a-4f1f-96be-7adc00c8e5da)
+
+
 ✅ Verás las relaciones visuales entre entidades (claves primarias/foráneas).
 
 ---
